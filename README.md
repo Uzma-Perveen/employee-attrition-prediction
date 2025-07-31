@@ -72,7 +72,7 @@ We followed a structured 3-part approach:
 
 ---
 
+## 📩 Questions?
+Feel free to fork, star ⭐, or connect with me on GitHub!
 
-
-That’s it — your project will be live on GitHub!
-Let me know if you also want a `.pptx` or `.pdf` report for submission or presentation.
+---
